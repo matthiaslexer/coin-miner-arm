@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jacobgc/coin-miner-arm/issues"
   },
-  "homepage": "https://github.com/jacobgc/coin-miner-arm#readme"
+  "homepage": "https://github.com/jacobgc/coin-miner-arm#readme",
+  "dependencies": {
+    "coin-hive": "^1.6.1"
+  }
 }
